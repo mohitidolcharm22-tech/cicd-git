@@ -8,7 +8,7 @@ export default defineConfig({
       babel: {
         plugins: [['babel-plugin-react-compiler']],
       },
-      base:"/cicd-git"
     }),
   ],
+  base:"/cicd-git"
 })
